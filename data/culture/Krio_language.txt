@@ -1,0 +1,104 @@
+Title: Krio language
+URL: https://en.wikipedia.org/wiki/Krio_language
+Scraped: 2025-10-06T16:24:22.608138
+
+================================================================================
+
+The Sierra Leonean Creole or Krio is an English-based creole language that is the lingua franca and de facto national language spoken throughout the West African nation of Sierra Leone. Krio is spoken by 96 percent of the country's population, and it unites the different ethnic groups in the country, especially in their trade and social interaction with each other. Krio is the primary language of communication among Sierra Leoneans at home and abroad, and has also heavily influenced Sierra Leonean English. The language is native to the Sierra Leone Creole people, or Krios, a community of about 104,311 descendants of freed slaves from the West Indies, Canada, United States and the British Empire, and is spoken as a second language by millions of other Sierra Leoneans belonging to the country's indigenous tribes. English is Sierra Leone's official language, and Krio, despite its common use throughout the country, has no official status.
+
+Overview
+The Krio language is an offshoot of the languages and variations of English brought by the Nova Scotian Settlers from North America, Maroons from Jamaica, and the numerous liberated African slaves who settled in Sierra Leone.
+All freed slaves—the Jamaican Maroons, African Americans, and Liberated Africans—influenced Krio, but the Jamaican Maroons, Igbo, Yoruba and Akan Liberated Africans were the most influential. It seems probable that the basic grammatical structure and vowel system of Krio is an offshoot of Jamaican Maroon Creole spoken by the Maroons, as there are well-documented and important direct historical connections between Jamaica 
+and Sierra Leone. The language was also influenced by African American Vernacular English while the majority of the African words in Krio come from the Akan, Yoruba and Igbo.
+As an English-based creole language, the Sierra Leone Krio is distinct from a pidgin as it is a language in its own right, with fixed grammatical structures and rules. Krio also draws from other European languages, like Portuguese and French,  e.g. the Krio word gentri/gentree, which means wealth or to acquire wealth, is derived from the Old French word 'gentry', and the Krio word pikin, which means 'child', indirectly comes from the Portuguese word pequeno meaning 'small' and often used to mean children in Portuguese.
+In Sierra Leone, the Krio Language is spoken by people with different degrees of fluency, as well as regional changes to the Krio. Many of the speakers of Sierra Leone Krio live in or close to the capital city, Freetown. As of 2007, there were close to 350,000 individuals who spoke Krio as a primary language. Even more individuals were using it as a main language for communication purposes in the country as a whole.
+
+Language origins
+One theory suggests the early roots of Krio go back to the Atlantic slave trade era in the 17th and 18th centuries when an English-based "pidgin" language (West African Pidgin English, also called Guinea Coast Creole English) arose to facilitate the coastal trade between Europeans and Africans. This early pidgin later became the lingua franca of regional trade among West Africans themselves and likely spread up the river systems to the African interior. After the founding of Freetown, this preexisting pidgin was incorporated into the speech of the various groups of freed slaves landed in Sierra Leone between 1787 and about 1855. The pidgin gradually evolved to become a stable language, the native language of descendants of the freed slaves (which are now a distinct ethnic and cultural group, the Creoles), and the lingua franca of Sierra Leone.
+
+Language usage
+Krio usage in Sierra Leone
+Most ethnic and cultural Creoles live in and around Freetown, the capital of Sierra Leone, and their community accounts for about 3% to 6% of Sierra Leone's total population  (Freetown is the province where the returned slaves from London and Nova Scotia settled).  However, because of their cultural influence in Sierra Leone, especially during the period of colonial rule, their language is used as the lingua franca among all the ethnic groups in Sierra Leone.
+
+Krio speakers abroad
+The Sierra Leone Creole people acted as traders and missionaries in other parts of West Africa during the 19th century, and as a result, there are also Krio-speaking communities in The Gambia, Nigeria, Cameroon, Equatorial Guinea, Senegal, and Guinea. As a result of Sierra Leone Creole migratory patterns, in the Gambia, the Gambian Creoles or Aku community speak Krio. The Fernando Po Creole English language of Equatorial Guinea is also largely a result of Sierra Leone Creole migrants. A small number of liberated Africans returned to the land of their origins, such as the Saros of Nigeria who not only took their Western names with them but also imported Krio words like sabi into Nigerian Pidgin English.
+
+Language revival
+During the period of colonial rule, Sierra Leoneans (particularly among the upper class) were discouraged from speaking Krio; but after independence from the United Kingdom in 1961, writers and educators began promoting its use. In the 1960s, Thomas Decker translated some of Shakespeare's plays into Krio, and composed original poetry in the language. In the 1980s, the New Testament was translated into Krio. Beginning with the involvement of Lutheran Bible Translators, Krio-language translations of the New Testament and Old Testament were published in 1986 and 2013.
+While English is Sierra Leone's official language, the Ministry of Education began using Krio as the medium of instruction in some primary schools in Freetown in the 1990s. Radio stations now broadcast a wide variety of programs in Krio. Sierra Leonean politicians also routinely give public speeches in the language.
+
+Classification
+Krio is an English-based creole from which descend Nigerian Pidgin English and Cameroonian Pidgin English and Pichinglis. It is also similar to English-based creole languages spoken in the Americas, especially Jamaican Patois (Jamaican Creole), Sranan Tongo (Surinamese Creole),  Bajan Creole and Gullah language, but it has its own distinctive character. It also shares some linguistic similarities with non-English creoles, such as the French-based creoles of the Caribbean.
+
+Phonology
+Krio contains seven monophthongs in its inventory of vowels, all of which can be nasalized. Most nasal vowels occur in words derived from English, in cases where an oral vowel precedes a nasal consonant. The nasal consonant is deleted and the vowel is nasalized.
+
+Vowels
+Krio has three diphthongs: /ai/, /au/, and /ɔi/.
+
+Consonants
+There are 24 phonemes in the consonant inventory of Krio.
+
+Consonant cluster reduction is a common process in phonology. It is typically applied to lexical items in English containing two or more consonants in a row including an initial s. Some examples include:
+
+Replacing a stop for a fricative, known as stopping substitution, is also common in words of English origin. Some examples include:
+
+There is also evidence of the influence of West African languages in the presence of the labial-velar plosives /kp/ and /gb/, as in:
+
+Krio is a tonal language and makes contrastive use of tone in both African and English words. Examples of minimal pairs of words distinguished by tone patterns are:
+
+Orthography
+Krio uses the Latin script but without Qq and Xx and with three additional letters from the African reference alphabet, Ɛɛ (open E), Ŋŋ (eng), and Ɔɔ (open O). Three tones can be distinguished in Krio and are sometimes marked with grave (à), acute (á), and circumflex (â) accents over the vowels for low, high, and falling tones respectively but these accents are not employed in normal usage. 
+The complete alphabet with digraphs:
+
+Grammar
+The particle dɛm is appended after a noun to mark the plural, e.g. uman ('woman'):
+
+Verbs
+Verbs do not conjugate according to person or number, but reflect their tense. Tense, aspect and mood are marked by one or more tense or aspect markers. The tense markers are 'bin' for the past tense and 'go' for the future, the absence of either shows the present tense. Aspect is shown by dɔn (from English 'done') for perfective and de (cf. English 'there', Yoruba dé, dà) for imperfective. Infinitive is marked by fɔ (from English 'for') and conditional by a combination of bin and go. Tendency is marked by kin and nɔba/naba.
+The verbal paradigm is as follows:
+
+The hortative is marked by lɛ (from English 'let'), e.g. lɛ wi go ('let's go'), lɛ wi tɔk ('let's talk') and the optative by mek (from English 'make'), e.g. mek yu kiŋdɔm kam ('let your kingdom come'), mek wetin yu want ('let your will be done').
+
+Interrogatives
+The following interrogatives can be used:
+
+In addition, like many other creoles, a question can be asked simply by intonation.
+E.g. yu de go? ('are you going?') vs. yu de go. ('you are going'). Additionally the question particles ɛnti and nɔ so/noto so can be used at the start or end of the phrase respectively.
+
+Pronouns
+There is no distinction between masculine and feminine in any person and, unlike Standard English, there is a second person plural form. However, there are the hints of nominative, accusative and genitive cases.
+
+Vocabulary
+Below are some common words in Krio, showing words from various origins:
+
+Below are some sample sentences in Krio:
+
+Below is a sample of the Universal Declaration of Human Rights in Krio:
+
+Films
+Krio is used (incorrectly) early in the 2006 film Blood Diamond between Danny Archer (played by Leonardo DiCaprio) and a character named Commander Zero.
+It can be heard in the music video for "Diamonds from Sierra Leone", a song by American rapper Kanye West.
+In 2007, work was completed on an unsanctioned, dubbed Krio version of Franco Zeffirelli's 1977 film Jesus of Nazareth. The dubs were recorded by a team of over 14 native Krio speakers, over a period of 9 months in the Lungi region of Sierra Leone. The film aired on ABC-TV and a limited run of 300 copies were produced, which were mostly sold in Lungi and Freetown.
+Krio is heard in the English language documentary War Don Don. The film's title is in Krio.
+The first feature-length documentary entirely spoken in Krio is Boris Gerrets' film Shado’man (2014). It was shot in Freetown at night with a group of homeless disabled people. The film premiered at the IDFA documentary festival in Amsterdam and was seen in festivals around the world including FESPACO, the biannual Pan-African film festival in Ouagadougou.
+
+Fiction
+Peter Grant, the protagonist of Ben Aaronovitch's Rivers of London series, is the London-born son of an immigrant from Sierra Leone. While speaking English with other characters, he speaks Krio with his mother. Aaronovitch includes some such conversations in his text, leaving the reader to puzzle out what was said.
+
+See also
+Sierra Leonean English
+Ian Hancock
+
+References
+Further reading
+Finney, Malcolm Awadajin (2004). "Substratal Influence on the Morphosyntactic Properties of Krio". Linguistic Discovery. 2 (2). doi:10.1349/PS1.1537-0852.A.266.
+Fyle, Clifford Nelson; Jones, Eldred Durosimi (1980). A Krio-English dictionary. Oxford University Press Freetown: Sierra Leone University Press. ISBN 978-0-19-864409-5.
+
+External links
+
+Krio Corpus Project at Umeå University, Sweden.
+Krio proverbs (Archived PDF version: Krio proverbs)
+PanAfrican L10n page on Krio (& Pidgin)
+Yakpo, Kofi (2009) "A Grammar of Pichi", 692 pp.  This link opens a pdf of a comprehensive linguistic description of Pichi (Fernando Po Creole English), a language closely related to Krio, by the linguist Kofi Yakpo (University of Nijmegen)
+Krio Language Manual, Peace Corps - Sierra Leone

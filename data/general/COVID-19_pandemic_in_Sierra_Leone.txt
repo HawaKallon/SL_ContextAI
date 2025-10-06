@@ -1,0 +1,79 @@
+Title: COVID-19 pandemic in Sierra Leone
+URL: https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Sierra_Leone
+Scraped: 2025-10-06T16:24:50.660311
+
+================================================================================
+
+The COVID-19 pandemic in Sierra Leone is part of the worldwide pandemic of coronavirus disease 2019 (COVID-19) caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). The virus was confirmed to have reached Sierra Leone on 31 March 2020.
+
+Background
+On 12 January 2020, the World Health Organization (WHO) confirmed that a novel coronavirus was the cause of a respiratory illness in a cluster of people in Wuhan City, Hubei Province, China, which was reported to the WHO on 31 December 2019.
+The case fatality ratio for COVID-19 has been much lower than SARS of 2003, but the transmission has been significantly greater, with a significant total death toll.
+
+Timeline
+March 2020
+The president of Sierra Leone, Julius Maada Bio, confirmed the country's first case of coronavirus disease 2019 on 31 March, a 37-year-old man who traveled from France on 16 March and had been in isolation since. This single case remained active at the end of the month.
+
+April 2020
+On 1 April, Sierra Leone confirmed its second case which had no history of travel or contact with the country's first case.  The government announced a 3-day lockdown starting on 5 April.
+On 4 April, two more cases were confirmed and a further two on 5 April bringing the total to 6.
+On 9 April, after the end of the three-day lockdown, the government announced additional measures. For an initial period of 14 days all inter-district travel is restricted, a curfew from 21:00 - 06:00 is in effect, shops are to sell essential items only and people are to stay at home unless they have good reason not to. Face masks are strongly encouraged, especially in public places.
+On 12 April, a government press release stated that the last 3 of the 10 infected people had been undergoing self isolation and all 10 are in the treatment facility in a stable condition.  In total 1,354 people had entered quarantine for 2 weeks and 736 had completed the 2 weeks and been released.
+On 19 April, the first 6 recoveries were reported, following negative test results for the virus. 29 people remained in a stable condition with the virus and 516 were in quarantine.
+On 21 April, it was announced that President Julius Maada Bio was self isolating following a positive test for the virus by one of his body guards.
+On 23 April, the first death of a 76-year-old male was reported, followed by a 69-year-old male later in the day. Both cases were in people taken to hospital and found to be infected after death. All those infected and in isolation remain in a stable condition.
+On 24 April, a third death was reported of a 37-year-old male.
+By the end of April, 124 persons had tested positive and seven had died. Of the remaining 117 patients, 21 had recovered while 96 remained active cases at the end of the month.
+
+May 2020
+A new 3-day lockdown was announced, starting on 3 May. That day, 1,341 people were in quarantine with 29 total recoveries.
+In May there were 737 new cases, bringing the total number of confirmed cases to 861. The death toll rose to 46. The number of recovered patients increased to 454, leaving 361 active cases at the end of the month. Model-based simulations suggest that the 95% confidence interval for the time-varying reproduction number R t was below 1.0 in May.
+
+June 2020
+From 1 June, wearing of face masks became compulsory.  Also on this day, frontline workers declared a strike because of unpaid salaries.
+By 4 June, a total of 4,827 people had passed through quarantine, there were 468 female cases and 446 male cases.
+On 13 June there were 563 female and 569 male cases reported. Karene District was the only district still reporting no cases and Western Urban had the most at 667 cases.
+On 21 June there were 642 female and 685 male cases. A total of 6,602 people had passed through quarantine. Karene district (in the north of the country) remained without a case whilst Freetown's Western Urban had a total of 718 cases.
+During June there were 601 new cases, bringing the total number of confirmed cases to 1462. The death toll rose by 14 to 60. The number of recovered patients more than doubled to 974, leaving 428 active cases at the end of the month. Model-based simulations suggest that the 95% confidence interval for the time-varying reproduction number Rt remained below 1.0 in June.
+
+July 2020
+On 2 July, the government changed the international travel restrictions, banning all passenger flights until 15 July.
+On 5 July there were 759 female cases and 783 male. 7,738 people had passed through quarantine. All districts had reported cases with Falaba District having the lowest case count of 4 and Western Urban (Freetown) the highest at 763.
+On 10 July the president announced that places of worship could reopen from 13 July. Air travel could resume from the same date.
+Model-based simulations suggest that the 95% confidence interval for the time-varying reproduction number R t was stable around 1.0 in July.
+There were 361 new cases in July, bringing the total number of confirmed cases to 1823. The death toll rose by seven to 67. The number of recovered patients increased to 1362, leaving 394 active cases at the end of the month, a decrease by 8% from the end of June.
+
+August to December 2020
+There were 199 new cases in August, bringing the total number of confirmed cases to 2022. The death toll rose by three to 70. There were 358 active cases at the end of the month, a decrease by 9% from the end of July.
+By the end of September there were an additional 209 confirmed cases bringing the total to 2,231. One additional death was reported increasing the total to 72.
+There were 135 new cases in October, bringing the total number of confirmed cases to 2,366. The death toll rose to 74. By the end of the month 1,800 patients had recovered, leaving 492 active cases.
+There were 47 new cases in November, bringing the total number of confirmed cases to 2,413. The death toll remained unchanged. By the end of the month 1,838 patients had recovered, leaving 501 active cases at the end of the month.
+There were 198 new cases in December, taking the total number of confirmed cases to 2,611. The death toll rose to 76. By the end of the month 1,892 patients had recovered, leaving 643 active cases at the end of 2020.
+
+2021
+Vaccinations started on 15 March, initially with 96,000 doses of the Oxford-AstraZeneca vaccine.
+Sierra Leone's first case of the Omicron variant was confirmed on 8 December.
+There were 4,431 confirmed cases in 2021, bringing the total number of cases to 7,042. 2,610 patients recovered in 2021 while 47 persons died, bringing the total death toll to 123. There were 2,417 active cases at the end of 2021.
+Modelling carried out by the WHO’s Regional Office for Africa suggests that due to under-reporting, the true cumulative number of infections by the end of 2021 was around 3.5 million and that the true number of COVID-19 deaths was around two thousand.
+
+2022
+There were 718 confirmed cases in 2022, bringing the total number of cases to 7,760. Three persons died, bringing the total death toll to 126.
+
+2023
+There were 19 confirmed cases in 2023, bringing the total number of cases to 7,779. The death toll remained unchanged.
+
+Statistics
+Confirmed new cases per day
+Confirmed deaths per day
+Response
+On 25 March, before the country's first case was confirmed, the government declared a 12-month state of emergency.
+Entry into the country was restricted and religious gatherings prohibited. A three-day lockdown was announced to begin 5 April.
+The World Bank announced a $7.5 million grant to help Sierra Leone deal with the pandemic.
+
+See also
+COVID-19 pandemic in Africa
+COVID-19 pandemic by country and territory
+
+References
+External links
+Ministry of Health and Sanitation - Official COVID-19 Page
