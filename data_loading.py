@@ -11,7 +11,7 @@ os.environ["TF_CPP_MIN_LOG_LEVEL"] = "3"
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_community.vectorstores import FAISS
-from langchain_community.document_loaders import TextLoader
+from langchain_community.document_loaders import TextLoader, PyPDFLoader
 import warnings
 import logging
 
@@ -36,21 +36,24 @@ class SierraLeoneDataLoader:
         )
 
     def load_documents_from_category(self, category):
-        """Load all text documents from a category folder"""
+        """Load all text and PDF documents from a category folder"""
         category_path = os.path.join(self.base_data_dir, category)
 
         if not os.path.exists(category_path):
             print(f"⚠️  Category folder not found: {category_path}")
             return []
 
-        # Get all .txt files (skip JSON metadata files)
+        # Get all .txt and .pdf files (skip JSON metadata files)
         txt_files = glob.glob(os.path.join(category_path, "*.txt"))
+        pdf_files = glob.glob(os.path.join(category_path, "*.pdf"))
 
-        if not txt_files:
-            print(f"⚠️  No text files found in {category}/")
+        if not txt_files and not pdf_files:
+            print(f"⚠️  No text or PDF files found in {category}/")
             return []
 
         all_docs = []
+        
+        # Load text files
         for file_path in txt_files:
             try:
                 loader = TextLoader(file_path, encoding='utf-8')
@@ -58,7 +61,23 @@ class SierraLeoneDataLoader:
                 # Add category metadata
                 for doc in docs:
                     doc.metadata['category'] = category
+                    doc.metadata['file_type'] = 'txt'
                 all_docs.extend(docs)
+                print(f"  ✅ Loaded text file: {os.path.basename(file_path)}")
+            except Exception as e:
+                print(f"  ❌ Error loading {file_path}: {str(e)}")
+
+        # Load PDF files
+        for file_path in pdf_files:
+            try:
+                loader = PyPDFLoader(file_path)
+                docs = loader.load()
+                # Add category metadata
+                for doc in docs:
+                    doc.metadata['category'] = category
+                    doc.metadata['file_type'] = 'pdf'
+                all_docs.extend(docs)
+                print(f"  ✅ Loaded PDF file: {os.path.basename(file_path)} ({len(docs)} pages)")
             except Exception as e:
                 print(f"  ❌ Error loading {file_path}: {str(e)}")
 

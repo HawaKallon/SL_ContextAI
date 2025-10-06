@@ -1,0 +1,20 @@
+# Sierra Leone AI - Links Collection
+# Add URLs under the appropriate category section
+# Lines starting with # are comments and will be ignored
+# Format: [category] followed by URLs, one per line
+
+[general]
+https://statehouse.gov.sl
+https://sierralii.gov.sl
+
+[history]
+# Add historical resources here
+
+[culture]
+# Add cultural resources here
+
+[politics]
+# Add political resources here
+
+[economy]
+# Add economic resources here
