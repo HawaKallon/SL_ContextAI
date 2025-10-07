@@ -69,6 +69,17 @@ python api.py
 # API available at http://localhost:8000
 ```
 
+#### Option 3: Minimal Web UI
+- Open `bot_example.html` in your browser to chat with the assistant.
+- Ensure the API is running locally on `http://localhost:8000`.
+- If your API runs on a different URL, update the `API_BASE` constant in `bot_example.html`:
+
+```javascript
+const API_BASE = "http://localhost:8000";
+```
+
+Tip: If accessing the API over the internet (e.g., via ngrok), replace the value above with your public URL.
+
 ## 📊 Data Collection & Management
 
 ### Automatic Data Collection
